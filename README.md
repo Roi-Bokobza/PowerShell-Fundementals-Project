@@ -1,1 +1,24 @@
-# PowerShell-Fundementals-Project
+## Table of Contents
+- **Introduction**
+  - What is PowerShell?
+  - PowerShell Features
+- **Cmdlets**
+  - What are cmdlets?
+  - Examples of common cmdlets
+- **Objects and Pipeline**
+  - Working with objects
+  - Chaining cmdlets with the pipeline
+- **Aliases**
+  - What are Aliases?
+  - Create Aliases
+- **Files and Directory Management**
+  - Basic commands
+  - Creating Files and Directories
+- **Variables and Data Types**
+  - What are variables?
+  - Data types
+- **Scripting and Automation**
+  - Writing scripts
+  - Functions and parameters
+- **Advanced Topics**
+  - Modules, remote management, and execution policies
